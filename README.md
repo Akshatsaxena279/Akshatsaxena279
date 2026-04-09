@@ -1,22 +1,25 @@
 <h1 align="center">Hi 👋, I'm Akshat Saxena</h1>
-<h3 align="center">🚀 Aspiring Data Scientist | Python Developer</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Aspiring+Data+Scientist;Python+Developer;Machine+Learning+Enthusiast;Data+Driven+Problem+Solver" />
+</p>
 
 ---
 
-## 💫 About Me
-🎓 B.Tech Computer Science Student  
-📊 Passionate about Data Science, Analytics & Machine Learning  
-🐍 Strong in Python, Data Analysis & Visualization  
-📈 Skilled in Statistical Techniques & Predictive Modeling  
-💡 Interested in solving real-world problems using data  
+## 🌟 About Me
+✨ B.Tech Computer Science Student  
+📊 Passionate about Data Science & Analytics  
+🐍 Python | Data Analysis | Visualization  
+📈 Machine Learning & Statistical Modeling  
+💡 Love building real-world data-driven solutions  
 
 ---
 
-## 🔥 Current Focus
-- 📊 Data Science & Machine Learning Projects  
-- 🤖 Building Predictive Models  
-- 🌐 Backend Development (Django + APIs)  
-- 🐳 Docker & Deployment  
+## 🚀 Current Focus
+🔹 Data Science Projects  
+🔹 Machine Learning Models  
+🔹 Django + APIs  
+🔹 Docker Deployment  
 
 ---
 
@@ -37,18 +40,18 @@
 <img src="https://skillicons.dev/icons?i=python,cpp,html" />
 </p>
 
-### 🚀 Frameworks & Tools
+### 🚀 Tools & Frameworks
 <p>
 <img src="https://skillicons.dev/icons?i=django,git,github,docker" />
 </p>
 
-### 📊 Data Science & ML
+### 📊 Data Science
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-ff69b4?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ScikitLearn-yellow?style=for-the-badge&logo=scikit-learn"/>
+<img src="https://img.shields.io/badge/TensorFlow-red?style=for-the-badge&logo=tensorflow"/>
 </p>
 
 ### 🛢️ Databases
@@ -58,37 +61,41 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Akshatsaxena279&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshatsaxena279&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Akshatsaxena279&show_icons=true&theme=radical" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshatsaxena279&theme=radical" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshatsaxena279&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshatsaxena279&layout=compact&theme=radical" />
 </p>
 
 ---
 
 ## 🧠 Quote
-> “Data is the new oil, but insight is the real fuel.” 🔥
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
 ---
 
-## 🎯 Goals for 2026
-- 🚀 Become Industry-ready Data Scientist  
-- 📊 Build 10+ Real-world Projects  
-- 🌐 Contribute to Open Source  
-- 💼 Secure a top tech internship  
+## 🎯 Goals
+🚀 Become Data Scientist  
+📊 Build Real Projects  
+🌐 Contribute Open Source  
+💼 Get Top Internship  
 
 ---
 
-## 💡 Fun Fact
-⚡ Turning data into insights and coffee into code ☕💻  
+## 👀 Profile Views
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Akshatsaxena279&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>
 
 ---
 
 <p align="center">
-⭐ Star repositories you find useful!
+💖 Thanks for visiting my profile!
 </p>
