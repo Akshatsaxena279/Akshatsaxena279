@@ -1,29 +1,29 @@
 <h1 align="center">Hi 👋, I'm Akshat Saxena</h1>
-<h3 align="center">🚀 Aspiring Data Scientist | Python Developer | Problem Solver</h3>
+<h3 align="center">🚀 Aspiring Data Scientist | Python Developer</h3>
 
 ---
 
 ## 💫 About Me
 🎓 B.Tech Computer Science Student  
-📊 Passionate about Data Science & Analytics  
+📊 Passionate about Data Science, Analytics & Machine Learning  
 🐍 Strong in Python, Data Analysis & Visualization  
-📈 Skilled in Statistical Techniques & Machine Learning  
-💡 Love solving real-world problems using data  
+📈 Skilled in Statistical Techniques & Predictive Modeling  
+💡 Interested in solving real-world problems using data  
 
 ---
 
-## 🔥 What I’m Currently Working On
-- 📊 Data Science Projects
-- 🤖 Machine Learning Models
-- 🌐 Full Stack Development (Django + APIs)
-- 🐳 Docker-based Deployments
+## 🔥 Current Focus
+- 📊 Data Science & Machine Learning Projects  
+- 🤖 Building Predictive Models  
+- 🌐 Backend Development (Django + APIs)  
+- 🐳 Docker & Deployment  
 
 ---
 
 ## 🌐 Connect With Me
 <p align="center">
 <a href="https://instagram.com/akshat_saxena_77"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-<a href="https://linkedin.com/in/Akshat Saxena"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://linkedin.com/in/akshat-saxena"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://x.com/AkshatSaxena_77"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 <a href="mailto:akshatsaxena1977@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
@@ -47,7 +47,7 @@
 <img src="https://skillicons.dev/icons?i=tensorflow" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-white?style=flat&logo=plotly&logoColor=black"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=plotly&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
 </p>
 
@@ -71,7 +71,7 @@
 
 ---
 
-## 🧠 Quote of the Day
+## 🧠 Quote
 > “Data is the new oil, but insight is the real fuel.” 🔥
 
 ---
@@ -80,15 +80,15 @@
 - 🚀 Become Industry-ready Data Scientist  
 - 📊 Build 10+ Real-world Projects  
 - 🌐 Contribute to Open Source  
-- 💼 Land a top tech internship  
+- 💼 Secure a top tech internship  
 
 ---
 
 ## 💡 Fun Fact
-⚡ I turn data into decisions and coffee into code ☕💻  
+⚡ Turning data into insights and coffee into code ☕💻  
 
 ---
 
 <p align="center">
-⭐ Don't forget to star repositories you like!
+⭐ Star repositories you find useful!
 </p>
